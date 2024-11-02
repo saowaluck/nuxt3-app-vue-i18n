@@ -2,4 +2,5 @@
   "hello": "Hello, {name}!",
   "language": "Language example",
   "main": "Main"
+"title": "Example translation"
 }
