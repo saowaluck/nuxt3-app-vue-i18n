@@ -1,5 +1,9 @@
 {
   "hello": "Hello, {name}!",
   "language": "Language example",
-  "main": "Main"
+  "main": "Main",
+  "home": "Home",
+  "about": "About",
+  "services": "Services",
+  "contact": "Contact"
 }
