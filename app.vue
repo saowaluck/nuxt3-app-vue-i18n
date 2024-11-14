@@ -39,8 +39,6 @@
         menu, and language switcher.</p>
     </main>
 
-
-
   </div>
 </template>
 <script lang="ts" setup>
