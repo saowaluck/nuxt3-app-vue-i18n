@@ -10,7 +10,7 @@
 
         <!-- Navigation Menu -->
         <nav class="hidden md:flex space-x-6">
-          <a class="text-gray-600 hover:text-blue-500" href="#home">{{ $t('home') }}</a>
+          <a class="text-gray-600 hover:text-blue-500" href="#home">Home</a>
           <a class="text-gray-600 hover:text-blue-500" href="#about">{{ $t('about') }}</a>
           <a class="text-gray-600 hover:text-blue-500" href="#services">{{ $t('services') }}</a>
           <a class="text-gray-600 hover:text-blue-500" href="#contact">{{ $t('contact') }}</a>
